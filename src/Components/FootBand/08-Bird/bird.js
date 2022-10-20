@@ -1,15 +1,16 @@
 import React from "react";
-import "./bird.css";
 import { Link } from "react-router-dom";
-import Bird1 from "../08-Bird/bird1.jpg";
-import Bird2 from "../08-Bird/bird2.jpg";
-import Bird3 from "../08-Bird/bird3.jpg";
-import Bird4 from "../08-Bird/bird4.jpg";
-import Bird5 from "../08-Bird/bird5.jpg";
-import Bird6 from "../08-Bird/bird6.jpg";
-import Bird7 from "../08-Bird/bird7.jpg";
-import Bird8 from "../08-Bird/bird8.jpg";
-import Bird9 from "../08-Bird/bird9.jpg";
+
+import "./bird.css";
+import Bird1 from "../08-Bird/assets/bird1.jpg";
+import Bird2 from "../08-Bird/assets/bird2.jpg";
+import Bird3 from "../08-Bird/assets/bird3.jpg";
+import Bird4 from "../08-Bird/assets/bird4.jpg";
+import Bird5 from "../08-Bird/assets/bird5.jpg";
+import Bird6 from "../08-Bird/assets/bird6.jpg";
+import Bird7 from "../08-Bird/assets/bird7.jpg";
+import Bird8 from "../08-Bird/assets/bird8.jpg";
+import Bird9 from "../08-Bird/assets/bird9.jpg";
 
 const bird = (props) => {
  

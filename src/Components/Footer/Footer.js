@@ -1,13 +1,14 @@
 import react from "react";
+import { Link } from "react-router-dom";
+
 import Logo from "../Footer/assets/lg.jpg";
 import "./Footer.css";
-import { Link } from "react-router-dom";
 
 const Footer = (props) => {
   return (
     <footer className="">
       <div className="row">
-        <div align="center" className=" col-12 col-md">
+        <div align="center" className="col-md">
           <img
             className="flogo "
             src={Logo}

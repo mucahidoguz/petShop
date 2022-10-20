@@ -1,15 +1,16 @@
 import React from "react";
-import "./brands.css";
 import { Link } from "react-router-dom";
-import Brands1 from "../02-Brands/1.webp";
-import Brands2 from "../02-Brands/2.webp";
-import Brands3 from "../02-Brands/3.webp";
-import Brands4 from "../02-Brands/4.webp";
-import Brands5 from "../02-Brands/5.webp";
-import Brands6 from "../02-Brands/6.webp";
-import Brands7 from "../02-Brands/7.webp";
-import Brands8 from "../02-Brands/8.webp";
-import Brands9 from "../02-Brands/9.jpg";
+
+import "./brands.css";
+import Brands1 from "../02-Brands/assets/1.webp";
+import Brands2 from "../02-Brands/assets/2.webp";
+import Brands3 from "../02-Brands/assets/3.webp";
+import Brands4 from "../02-Brands/assets/4.webp";
+import Brands5 from "../02-Brands/assets/5.webp";
+import Brands6 from "../02-Brands/assets/6.webp";
+import Brands7 from "../02-Brands/assets/7.webp";
+import Brands8 from "../02-Brands/assets/8.webp";
+import Brands9 from "../02-Brands/assets/9.jpg";
 
 const brands = (props) => {
 

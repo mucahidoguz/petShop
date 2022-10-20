@@ -1,16 +1,17 @@
 import React from "react";
-import './fish.css'
 import { Link } from "react-router-dom";
-import Fish1 from "../07-Fish/fish1.jpg";
-import Fish2 from "../07-Fish/fish2.jpg";
-import Fish3 from "../07-Fish/fish3.jpg";
-import Fish4 from "../07-Fish/fish4.jpg";
-import Fish5 from "../07-Fish/fish5.jpg";
-import Fish6 from "../07-Fish/fish6.jpg";
-import Fish7 from "../07-Fish/fish7.jpg";
-import Fish8 from "../07-Fish/fish8.jpg";
-import Fish9 from "../07-Fish/fish9.jpg";
-import Fish10 from "../07-Fish/fish10.jpg"
+
+import './fish.css'
+import Fish1 from "../07-Fish/assets/fish1.jpg";
+import Fish2 from "../07-Fish/assets/fish2.jpg";
+import Fish3 from "../07-Fish/assets/fish3.jpg";
+import Fish4 from "../07-Fish/assets/fish4.jpg";
+import Fish5 from "../07-Fish/assets/fish5.jpg";
+import Fish6 from "../07-Fish/assets/fish6.jpg";
+import Fish7 from "../07-Fish/assets/fish7.jpg";
+import Fish8 from "../07-Fish/assets/fish8.jpg";
+import Fish9 from "../07-Fish/assets/fish9.jpg";
+import Fish10 from "../07-Fish/assets/fish10.jpg"
 
 
 const fish = (props) => {

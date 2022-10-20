@@ -1,15 +1,16 @@
 import React from "react";
-import "./dog.css";
 import { Link } from "react-router-dom";
-import Dog1 from "../05-Dog/dog1.jpg";
-import Dog2 from "../05-Dog/dog2.jpg";
-import Dog3 from "../05-Dog/dog3.jpg";
-import Dog4 from "../05-Dog/dog4.jpg";
-import Dog5 from "../05-Dog/dog5.jpg";
-import Dog6 from "../05-Dog/dog6.jpg";
-import Dog7 from "../05-Dog/dog7.jpg";
-import Dog8 from "../05-Dog/dog8.jpg";
-import Dog9 from "../05-Dog/dog9.jpg";
+
+import "./dog.css";
+import Dog1 from "./assets/dog1.jpg";
+import Dog2 from "../05-Dog/assets/dog2.jpg";
+import Dog3 from "../05-Dog/assets/dog3.jpg";
+import Dog4 from "../05-Dog/assets/dog4.jpg";
+import Dog5 from "../05-Dog/assets/dog5.jpg";
+import Dog6 from "../05-Dog/assets/dog6.jpg";
+import Dog7 from "../05-Dog/assets/dog7.jpg";
+import Dog8 from "../05-Dog/assets/dog8.jpg";
+import Dog9 from "../05-Dog/assets/dog9.jpg";
 
 const dog = (props) => {
 

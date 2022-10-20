@@ -1,4 +1,5 @@
 import React, { useEffect } from "react";
+
 import Header from "../../../Components/Header/Header";
 import Footer from "../../../Components/Footer/Footer";
 import Brands from "../../../Components/Navbar/02-Brands/brands";

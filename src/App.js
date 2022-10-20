@@ -1,3 +1,5 @@
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
 import "./App.css";
 import Home from "./Pages/00-Home/Home";
 import AbautUS from "./Pages/Navbar/01-Abaut-us/abautUs";
@@ -9,8 +11,6 @@ import Cat from "./Pages/FootBand/06-Cat/cat";
 import Fish from "./Pages/FootBand/07-Fish/fish";
 import Bird from "./Pages/FootBand/08-Bird/bird";
 
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import axios from "axios";
 
 function App() {
   return (

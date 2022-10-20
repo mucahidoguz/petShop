@@ -1,16 +1,17 @@
 import React from "react";
-import "./cat.css";
 import { Link } from "react-router-dom";
-import Cat1 from "../06-Cat/cat1.jpg";
-import Cat2 from "../06-Cat/cat2.jpg";
-import Cat3 from "../06-Cat/cat3.jpg";
-import Cat4 from "../06-Cat/cat4.jpg";
-import Cat5 from "../06-Cat/cat5.jpg";
-import Cat6 from "../06-Cat/cat6.jpg";
-import Cat7 from "../06-Cat/cat7.jpg";
-import Cat8 from "../06-Cat/cat8.jpg";
-import Cat9 from "../06-Cat/cat9.jpg";
-import Cat10 from "../06-Cat/cat10.jpg";
+
+import "./cat.css";
+import Cat1 from "../06-Cat/assets/cat1.jpg";
+import Cat2 from "../06-Cat/assets/cat2.jpg";
+import Cat3 from "../06-Cat/assets/cat3.jpg";
+import Cat4 from "../06-Cat/assets/cat4.jpg";
+import Cat5 from "../06-Cat/assets/cat5.jpg";
+import Cat6 from "../06-Cat/assets/cat6.jpg";
+import Cat7 from "../06-Cat/assets/cat7.jpg";
+import Cat8 from "../06-Cat/assets/cat8.jpg";
+import Cat9 from "../06-Cat/assets/cat9.jpg";
+import Cat10 from "../06-Cat/assets/cat10.jpg";
 
 const cat = (props) => {
 

@@ -3,7 +3,7 @@ import "./sss.css";
 
 const sss = (props) => {
   return (
-    <div className="App">
+    <div className="AppSSS">
       <div className=" container">
         <h1 className="my-5">SIKÇA SORULAN SORULAR</h1>
         <h3>Siparişim Ne Kadar Sürede Gelir?</h3>

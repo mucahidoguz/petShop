@@ -1,4 +1,6 @@
 import React, { useEffect } from "react";
+
+
 import Header from "../../../Components/Header/Header";
 import Footer from "../../../Components/Footer/Footer";
 import Dog from "../../../Components/FootBand/05-Dog/dog";

@@ -1,6 +1,7 @@
 import React from "react";
-import "./Main.css";
 import { Link } from "react-router-dom";
+
+import "./Main.css";
 import Fish from "./assets/fish0.jpg";
 import Dog from "./assets/dogs1.jpg";
 import Cat from "./assets/cats1.jpg";
